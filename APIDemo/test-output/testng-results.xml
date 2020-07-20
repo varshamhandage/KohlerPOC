@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="5" passed="5">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="132192" started-at="2020-07-09T06:56:03Z" finished-at="2020-07-09T06:58:15Z">
+    <groups>
+    </groups>
+    <test name="APITest" duration-ms="132192" started-at="2020-07-09T06:56:03Z" finished-at="2020-07-09T06:58:15Z">
+      <class name="Implementation.WiFiDemo">
+        <test-method status="PASS" signature="wifiSettings()[pri:0, instance:Implementation.WiFiDemo@5cb9f472]" name="wifiSettings" duration-ms="24629" started-at="2020-07-09T06:57:50Z" finished-at="2020-07-09T06:58:15Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- wifiSettings -->
+      </class> <!-- Implementation.WiFiDemo -->
+      <class name="Implementation.ScrollTest">
+        <test-method status="PASS" signature="ScrollDemo()[pri:0, instance:Implementation.ScrollTest@6e1567f1]" name="ScrollDemo" duration-ms="20660" started-at="2020-07-09T06:57:29Z" finished-at="2020-07-09T06:57:50Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ScrollDemo -->
+      </class> <!-- Implementation.ScrollTest -->
+      <class name="Implementation.DragDrop">
+        <test-method status="PASS" signature="dragTest()[pri:0, instance:Implementation.DragDrop@72d818d1]" name="dragTest" duration-ms="33608" started-at="2020-07-09T06:56:03Z" finished-at="2020-07-09T06:56:36Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- dragTest -->
+      </class> <!-- Implementation.DragDrop -->
+      <class name="Implementation.Gestures">
+        <test-method status="PASS" signature="Guesture()[pri:0, instance:Implementation.Gestures@6e06451e]" name="Guesture" duration-ms="26436" started-at="2020-07-09T06:56:36Z" finished-at="2020-07-09T06:57:03Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Guesture -->
+      </class> <!-- Implementation.Gestures -->
+      <class name="Implementation.SwipeDemo">
+        <test-method status="PASS" signature="swipeTest()[pri:0, instance:Implementation.SwipeDemo@59494225]" name="swipeTest" duration-ms="26775" started-at="2020-07-09T06:57:03Z" finished-at="2020-07-09T06:57:29Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- swipeTest -->
+      </class> <!-- Implementation.SwipeDemo -->
+    </test> <!-- APITest -->
+  </suite> <!-- Suite -->
+</testng-results>
